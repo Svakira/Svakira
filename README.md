@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Svak</h1>
+<h1 align="center">Svak</h1>
 
 
-- 🌱 I’m currently learning **ML**
+- 🌱 **ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
